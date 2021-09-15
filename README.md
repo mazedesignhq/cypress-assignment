@@ -13,7 +13,7 @@
 Username: cypresser@harakirimail.com
 Password: aQ[JyY;ph^4J
 
-Expectations:
+## Expectations:
 
 - Script `cypress open` to test thru UI or `cypress run` to test thru CLI to be added by the candidate
 - Create re-usable methods like `login`, `createProject` etc.
