@@ -1,0 +1,11 @@
+{
+  "name": "cypress-assignment-qa",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "cypress": "^8.4.0"
+  },
+  "scripts": {
+    "cy:open": "cypress open"
+  }
+}
