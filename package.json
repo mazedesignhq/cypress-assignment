@@ -6,6 +6,6 @@
     "cypress": "^8.4.0"
   },
   "scripts": {
-    "cy:open": "cypress open"
+    "test": "echo there are no tests to run"
   }
 }
